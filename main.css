@@ -60,7 +60,6 @@ main {
 	position: absolute;
 	right: -100px;
 	top: -50px;
-	filter: contrast(.6) saturate(2) brightness(1.2);
 
 	max-width: 256px;
 	width: 40%;
