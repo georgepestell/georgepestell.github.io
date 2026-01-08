@@ -5,6 +5,7 @@
     <link rel="stylesheet" href="main.css" />
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
   </head>
 	<body>
 		<main>
@@ -20,7 +21,10 @@
 							href="https://instagram.com/george.https"><img
 							src="/assets/insta.png"></a></li>
 				</ul>
-				<img id="avatar" src="/assets/avatar.jpg">
+				<picture>
+					<source media="(min-width: 600px)" srcset="/assets/avatar-600.jpg">
+					<img id="avatar" src="/assets/avatar-300.jpg" alt="George Pestell">
+				</picture>
 			</div>
 	  </main>
   </body>
