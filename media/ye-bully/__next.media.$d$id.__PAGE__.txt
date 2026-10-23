@@ -1,0 +1,86 @@
+1:"$Sreact.fragment"
+2:I[24188,["/_next/static/chunks/03h0qwaj5wz3k.js"],"BreadcrumbLabel"]
+3:Te4b,<p><img src="/attachments/Pasted%20image%2020261010171404-1320.webp" alt="Bully Delux album cover @ YZY x Gamma 2026" srcset="/attachments/Pasted%20image%2020261010171404-480.webp 480w, /attachments/Pasted%20image%2020261010171404-800.webp 800w, /attachments/Pasted%20image%2020261010171404-1200.webp 1200w, /attachments/Pasted%20image%2020261010171404-1320.webp 1320w" sizes="(min-width: 768px) 640px, calc(100vw - 8rem)" width="1320" height="1320" loading="lazy"></p>
+<blockquote>
+<p>The Bully Delux album cover @ YZY x Gamma 2026.</p>
+</blockquote>
+<h3>Notes (DRAFTING)</h3>
+<ul>
+<li>
+<p>Ye back talking about his Mum, almost brining it back to DONDA era after the period of obvious mental health and behavioural issues.</p>
+</li>
+<li>
+<p>I haven't listened to the original version of the album, coming to this one late because I had kind-of given up on Ye with the politics and previous 3 albums.</p>
+</li>
+<li>
+<p>Kanye has been massively influential on my music taste.</p>
+</li>
+<li>
+<p>I loved his first album, and with the exception of St. Pablo which my friend Alex used to love when I was at school, I listened to his stuff in order, loving the early, finding the middle stuff interesting, the dipping, before an interesting revival.</p>
+</li>
+<li>
+<p>After <em>Donda (2021)</em>, the music was terrible for a while. I can't really stand trap, and Ye doesn't make any of it better.</p>
+</li>
+<li>
+<p>SISTERS AND BROTHERS kind of reminds me of 808's.</p>
+</li>
+<li>
+<p>BULLY - Start of the title track is enjoyable. I actually don't hate all of it. It's fun. Not really anything to the song lyrically, but it's a vibe track for sure.</p>
+</li>
+<li>
+<p>HIGHS AND LOWS - This one is cool. Reminds me of a lot of the stuff from the Gospel album which I really liked.</p>
+</li>
+<li>
+<p>ALL THE LOVE - Really like this one, but it is definitely fan-service.</p>
+</li>
+<li>
+<p>FATHER - Didn't like this one. One of the only ones I heard (actually saw on YT) before listening to the album in full.</p>
+</li>
+<li>
+<p>I CAN'T WAIT - Lauryn Hill on this. Feels like a generic new-age Ye song. I don't hate it. The same audio-processing from his early albums feels weird for some reason. I like the sound, but if he switches up completely on the next album it'll feel like a bit of fan recuperation. The Lauryn Hill stuff is so much better at the start of the song, so is Ye here, but then it get's kind of generic.</p>
+</li>
+<li>
+<p>I immediately forgot about MAMA'S FAVOURITE after I heard it.</p>
+</li>
+<li>
+<p>CIRCLES is forgettable and not great</p>
+</li>
+<li>
+<p>PREACHER MAN = Has a vibe. Love the switch up, but I wish it went harder.</p>
+</li>
+<li>
+<p>BEAUTY AND THE BEST is a really fun one. Wish the lyrics were more interesting.</p>
+</li>
+</ul>
+<p>So far, after I CAN'T WAIT - it's pretty forgettable for a Ye album. Mostly because it's not the most coherent story telling like his original albums, just with some of the same sounds picked-out randomly from his back catalogue. It feels like he could do something potentially with merging the sounds in the future.</p>
+<p>Ye references and samples a lot of cozy songs across this album, obviously self-referencing his old albums (without really talking about why) - like on WHITE LINES has the same audio-distortion from Graduation.</p>
+<p>Re-listening to his older stuff, I just think it was more of a jam. I get that it's very much of it's time with some of the sounds, but Ye's new music doesn't really feel like he's driving it forwards anymore, unlike the sounds that he was producing and bars he was writing back the 2000's and 2010's. It's almost as if his music has some what converged.</p>
+6:X
+b:X
+b:C
+0:{"buildId":"Kqlse3xXfzjv3wBXX2mue","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mr-2","data-pagefind-body":true,"data-pagefind-filter":"section:media","children":[["$","$L2",null,{"label":"Bully (Ye, 2026)"}],["$","span",null,{"hidden":true,"data-pagefind-meta":"title","children":"Bully (Ye, 2026)"}],["$","span",null,{"hidden":true,"data-pagefind-meta":"tags","children":""}],[],["$","span",null,{"hidden":true,"data-pagefind-meta":"created","children":"10/10/2026"}],["$","div",null,{"className":"flex flex-col","children":[["$","time",null,{"dateTime":"10/10/2026","children":["Created: ","10/10/2026"]}],["$","time",null,{"dateTime":"23/10/2026","children":["Modified: ","23/10/2026"]}],["$","div",null,{"children":["$","div",null,{"className":"undefined inline-flex","children":[]}]}]]}],["$","div",null,{"className":"mt-5","dangerouslySetInnerHTML":{"__html":"$3"}}]]}],null,"$L4"]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":"$L7","isPartial":"$@8","staleTime":"$6","varyParams":null},{"rsc":"$L9","isPartial":"$@a","staleTime":"$6","varyParams":"$b"},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$6","varyParams":"$b"},{"rsc":"$Le","isPartial":"$@f","staleTime":"$6","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@10","rootVaryParams":null,"needsRuntimeRequest":"$@11"}
+12:I[97400,["/_next/static/chunks/03h0qwaj5wz3k.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+15:I[97400,["/_next/static/chunks/03h0qwaj5wz3k.js"],"ViewportBoundary"]
+16:I[97400,["/_next/static/chunks/03h0qwaj5wz3k.js"],"MetadataBoundary"]
+17:I[70922,["/_next/static/chunks/03h0qwaj5wz3k.js"],"IconMark"]
+18:I[42089,["/_next/static/chunks/03h0qwaj5wz3k.js"],"default"]
+19:I[61130,["/_next/static/chunks/03h0qwaj5wz3k.js"],"default"]
+1a:I[24188,["/_next/static/chunks/03h0qwaj5wz3k.js"],"BreadcrumbProvider"]
+1b:I[24188,["/_next/static/chunks/03h0qwaj5wz3k.js"],"Breadcrumbs"]
+:HL["/_next/static/chunks/2zhu2sl-1zrad.css","style"]
+4:["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+7:["$","$1","h",{"children":[null,["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L16",null,{"children":["$","$13",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"George Pestell"}],["$","meta","1",{"name":"description","content":"My little corner of the internet where I put some thoughts about the world, films, media, and code."}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L17","3",{}]]}]}]}],null]}]
+9:["$","$1","c",{"children":[null,["$","$L18",null,{"parallelRouterKey":"children","template":["$","$L19",null,{}]}]]}]
+c:["$","$1","c",{"children":[null,["$","$L18",null,{"parallelRouterKey":"children","template":["$","$L19",null,{}]}]]}]
+e:["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2zhu2sl-1zrad.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/03h0qwaj5wz3k.js","async":true}]],["$","html",null,{"lang":"en","className":"h-full antialiased","children":["$","body",null,{"className":"min-h-full flex flex-col","children":[["$","div",null,{"className":"flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black","children":["$","main",null,{"className":"flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black dark:border-slate-800 dark:border-x sm:items-start","children":["$","article",null,{"className":"prose w-full max-w-none dark:prose-invert","children":["$","$L1a",null,{"children":[["$","$L1b",null,{}],["$","$L18",null,{"parallelRouterKey":"children","template":["$","$L19",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]]}]}]}]}],false]}]}]]}]
+14:null
+11:true
+6:300
+6:C
+10:0
+8:"$undefined"
+a:"$undefined"
+d:"$undefined"
+f:"$undefined"
+5:"$undefined"
